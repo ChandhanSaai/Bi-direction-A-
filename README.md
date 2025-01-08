@@ -1,1 +1,1 @@
-# Bi-direction-A-
+# Bi Direction A*
