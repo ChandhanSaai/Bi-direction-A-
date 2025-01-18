@@ -92,9 +92,9 @@ height = 600
 The code produces a visualization where:
 
 - **Gray circles** represent obstacles.
-- **Orange points** show the shortest path.
+- **Blue line** show the shortest path.
 - **Green points** indicate explored nodes.
 
 ## Example Visualization
 
-![Example Visualization](example_visualization.png)
+![Example Visualization](Bi-direction.gif)
