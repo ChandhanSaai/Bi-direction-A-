@@ -44,8 +44,7 @@ pip install numpy opencv-python
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/ChandhanSaai/Bi-direction-A-.git
 ```
 
 ### 2. Run the Code
