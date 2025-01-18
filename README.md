@@ -50,7 +50,7 @@ git clone https://github.com/ChandhanSaai/Bi-direction-A-.git
 ### 2. Run the Code
 
 ```bash
-python bidirectional_a_star.py
+python bi-direction-astar.py
 ```
 
 ### 3. Visualize the Path
