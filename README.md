@@ -80,7 +80,7 @@ goal_point = (1200, 300)
 
 ### Map Dimensions
 
-Change the dimensions of the map:
+Change the dimensions of the   map:
 
 ```python
 width = 1200
